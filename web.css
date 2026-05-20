@@ -1,4 +1,33 @@
-h1{
+body{
+    border:1px solid black;
+    width:700px;
+    margin:auto;
+    margin-top:20px;
+    padding-left:10px;
+}
+
+.heading{
     display:flex;
     justify-content:center;
+    text-align:center;
+    font-size:32px;
+}
+
+.water{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+table {
+  border-collapse: collapse;
+  border:1;
+}
+
+th, td {
+  padding: 10px;
+}
+
+.name{
+    padding: 10px 10px 10px 0;
 }
