@@ -4,6 +4,7 @@ body{
     margin:auto;
     margin-top:20px;
     padding-left:10px;
+    padding-bottom: 10px;
 }
 
 .heading{
@@ -30,4 +31,9 @@ th, td {
 
 .name{
     padding: 10px 10px 10px 0;
+
+}
+
+.tableName{
+    margin-bottom:10px;
 }
