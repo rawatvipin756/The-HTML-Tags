@@ -31,8 +31,11 @@ th, td {
 
 .name{
     padding: 10px 10px 10px 0;
-    display:flex;
+    display:grid;
+    border:1px solid black;
     justify-content:center;
+    margin:10px;
+    width:400px;
 
 }
 
