@@ -36,3 +36,8 @@ th, td {
 .tableName{
     margin-bottom:10px;
 }
+
+div p{
+    font-size:20px;
+    font-weight:bold;
+}
